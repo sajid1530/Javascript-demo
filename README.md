@@ -1,2 +1,2 @@
 # Javascript-demo
-this is my first repositry of javascript
+this is my first git repositry.
