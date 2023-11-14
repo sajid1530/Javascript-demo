@@ -1,5 +1,5 @@
 # Javascript-demo
 this is my first git repositry. <br>
-Author : sajid mehmood
+Author : Sajid Afridi
 <br>
 city : Peshawar
